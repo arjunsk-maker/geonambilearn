@@ -2,6 +2,10 @@
 
 GeoNambiLearn is a visual geography learning experience for Indian and Tamil Nadu geography, designed around interactive exploration and bilingual learning.
 
+[**View source code on GitHub**](https://github.com/arjunsk-maker/geonambilearn)
+
+> **Live demo:** Not published yet. Add your deployed website URL here when hosting is configured.
+
 ## ✨ Project overview
 
 The project explores ways to explain geographical concepts with visual storytelling, interactive maps, and 3D simulations.
