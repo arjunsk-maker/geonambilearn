@@ -79,7 +79,7 @@ src/
 
 ## 👤 Maintainer
 
-**Arjun SK** · [GitHub profile](https://github.com/arjunsk-maker)
+**thearjunsk** · [GitHub profile](https://github.com/arjunsk-maker)
 
 ---
 
