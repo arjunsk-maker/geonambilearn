@@ -1,6 +1,6 @@
 {
-  "name": "GeoBharat - Interactive Geography of India (புவியியல்)",
-  "description": "Premium Apple-inspired interactive educational platform for Indian & Tamil Nadu Geography syllabus featuring 3D Three.js exploration, bilingual Tamil-English learning, real dynamic maps, monsoon simulations, and disaster drill labs.",
+  "name": "GeoNambiLearn | Interactive Geography of India (புவியியல்)",
+  "description": "An interactive bilingual geography learning platform for Indian and Tamil Nadu geography, with visual explorations, 3D experiences, maps, and concept simulations.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
